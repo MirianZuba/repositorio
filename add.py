@@ -1,5 +1,8 @@
 a = 5
 b = 6
 
-result = a + b
-print("Soma: ", result)
+resultsoma = a + b
+resultsub = a - b
+
+print("Soma: ", resultsoma)
+print("Div: ", resultsub)
